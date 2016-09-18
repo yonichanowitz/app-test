@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html>
+<head>
+</head>
+<body>
+<div class="container">
+   
+</div>
+<div class="container">
+ <div class="row">
+     <div class="col-xs-2">
+     </div>
+     <div class="col-xs-8">
+       <input placeholder="something"></input>
+       <input placeholder="something"></input>
+       <input placeholder="something"></input>
+       <input placeholder="something"></input>
+       <button>Launch</button>
+   </div>
+</div>
+</body>
+</html>
