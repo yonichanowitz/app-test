@@ -1,2 +1,2 @@
 # app-test
-taesting app concept for GiveEvent
+testing app concept for GiveEvent
